@@ -1,0 +1,7 @@
+module imagemagick {
+    header "magick_config.h"
+    header "imagemagick.h"
+    link "MagickWand"
+    link "MagickCore"
+    export *
+}
