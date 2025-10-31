@@ -1,6 +1,6 @@
-# SwiftImageMagick
+# swift-image-magick
 
-**SwiftImageMagick** is a Swift library that wraps around the powerful ImageMagick C library, enabling efficient image manipulation and processing with a Swift-native API.
+Swift wrapper for ImageMagick C library, enabling image manipulation and processing with a Swift-native API.
 
 ## Features
 
@@ -45,17 +45,9 @@ let package = Package(
 
 This package has no dependencies and is not currently used by other packages in the ecosystem.
 
-## Feedback is much appreciated!
+## Contributing
 
-If you’re working on your own Swift project, feel free to learn, fork, and contribute.
-
-Got thoughts? Found something you love? Something you hate? Let me know! Your feedback helps make this project better for everyone. Open an issue or start a discussion—I’m all ears.
-
-> [Subscribe to my newsletter](http://coenttb.com/en/newsletter/subscribe)
->
-> [Follow me on X](http://x.com/coenttb)
-> 
-> [Link on Linkedin](https://www.linkedin.com/in/tenthijeboonkkamp)
+Contributions are welcome. Please open an issue or submit a pull request.
 
 ## License
 
