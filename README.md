@@ -41,6 +41,10 @@ let package = Package(
 )
 ```
 
+## Related Packages
+
+This package has no dependencies and is not currently used by other packages in the ecosystem.
+
 ## Feedback is much appreciated!
 
 If you’re working on your own Swift project, feel free to learn, fork, and contribute.
